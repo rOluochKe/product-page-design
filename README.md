@@ -1,4 +1,4 @@
-# Product Page
+# Product Page Design
 
 - HTML5
 - CSS3
@@ -9,13 +9,13 @@
 > Clone the repository to your local machine
 
 ```
-$ git clone git@github.com:rOluochKe/product-page.git
+$ git clone git@github.com:rOluochKe/product-page-design.git
 ```
 
 > cd into the directory
 
 ```
-$ cd product-page
+$ cd product-page-design
 ```
 
 > Finally, you'll be ready to view the app in the browser:
@@ -30,7 +30,7 @@ $ Open the file on the browser: index.html
 
 ## Contributing
 
-1. Fork it (git clone git@github.com:rOluochKe/product-page.git/fork)
+1. Fork it (git clone git@github.com:rOluochKe/product-page-design.git/fork)
 2. Create your feature branch (git checkout -b feature/[choose-a-name])
 3. Commit your changes (git commit -am 'What this commit will fix/add')
 4. Push to the branch (git push origin feature/[chosen name])
